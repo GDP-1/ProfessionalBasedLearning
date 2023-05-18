@@ -1,8 +1,12 @@
 #
 Course Title: GDP – I
+
 Project Title: Professional-Based Learning (NW PBL Project explorer)
+
 Client’s Name: Dr. Fellah & Mr. Garry 
+
 Institution: Northwest Missouri State University
+
 Team-members:
 Shivani, Narabathoju (Team Lead) – UI/UX Developer
 Ashok Murali Donga – Full Stack Developer/ Test Engineer.
